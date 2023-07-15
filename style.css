@@ -1,0 +1,16 @@
+* {
+    M: 0;
+    P: 0;
+}
+
+.main {
+    background: #389c9a;
+}
+
+.logo {
+    flex-basis: 0;
+}
+
+.logo img {
+    width: 20px;
+}
